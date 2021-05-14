@@ -1,2 +1,2 @@
 # MEA460
-This repository is for my Media Analytics Final Project 
+This repository is for my MEA 460 Final Project 
